@@ -1,0 +1,36 @@
+{
+  "$schema": "/mediawiki/recentchange/1.0.0",
+  "meta": {
+    "uri": "https://en.wikipedia.org/wiki/Sonderkommando_Rote_Kapelle",
+    "request_id": "30fc0022-ab90-4f08-be22-ca4d8172fd70",
+    "id": "4aa0157b-032f-47f3-b276-2b73fedc595e",
+    "dt": "2022-10-12T19:13:25Z",
+    "domain": "en.wikipedia.org",
+    "stream": "mediawiki.recentchange",
+    "topic": "eqiad.mediawiki.recentchange",
+    "partition": 0,
+    "offset": 4229949968
+  },
+  "id": 1559087321,
+  "type": "edit",
+  "namespace": 0,
+  "title": "Sonderkommando Rote Kapelle",
+  "comment": "cite",
+  "timestamp": 1665602005,
+  "user": "Scope creep",
+  "bot": false,
+  "minor": false,
+  "length": {
+    "old": 32009,
+    "new": 31995
+  },
+  "revision": {
+    "old": 1115695401,
+    "new": 1115699013
+  },
+  "server_url": "https://en.wikipedia.org",
+  "server_name": "en.wikipedia.org",
+  "server_script_path": "/w",
+  "wiki": "enwiki",
+  "parsedcomment": "cite"
+}

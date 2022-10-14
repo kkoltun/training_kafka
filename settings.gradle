@@ -1,0 +1,7 @@
+rootProject.name = 'kafka-project'
+include 'kafka-basics'
+include 'kafka-producer-wikimedia'
+include 'kafka-consumer-elasticsearch'
+include 'kafka-connect-example'
+include 'kafka-streams-wikimedia'
+
